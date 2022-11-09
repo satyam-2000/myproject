@@ -16,6 +16,9 @@ Some advance concepts like sessions have been implemented while making this proj
 
 ### 1) Home Page
 This is the landing page of the website in which all the products have been displayed. User can also filter the products by choosing specific category.
+![Screenshot (111)](https://user-images.githubusercontent.com/84591165/200869726-81e14f59-3bc4-47fa-aa5a-637265a27a1f.png)
+
+
 ### 2) Signup Page
 User can register himself by providing his first name, last name, email, password and mobile number. All types of validations have been added in all the fields.
 ### 3) Login Page 
